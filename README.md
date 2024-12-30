@@ -1,4 +1,4 @@
-# Awesome World Models [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47)
+# Awesome World Models [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Contents
 
