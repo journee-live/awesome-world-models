@@ -16,18 +16,11 @@
 
 - [ART•V: Auto-Regressive Text-to-Video Generation with Diffusion Models](https://warranweng.github.io/art.v/)
 
-  ART•V is a new AI system that generates videos by creating one frame at a time, using each previous frame as a reference. Unlike other video generation models that try to create the whole video at once, this step-by-step approach helps maintain quality and detail while allowing for more natural motion. It's particularly good at turning text descriptions or single images into fluid videos.
-
 ## Data Sources
-- [Awesome Autoregressive Models in Vision](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
-
-  This repo is a curated list of papers about the latest advancements in autoregressive models in vision.
 - 
 
 ## Articles
-
-- 
-
+- [Awesome Autoregressive Models in Vision](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
 ## Others
 
 - 
