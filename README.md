@@ -38,6 +38,8 @@
 
 - **Genie 2**: A large-scale foundation world model [[Website](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)] (2024.12)
 
+- **GameFactory**: A generalizable world model that learns from a small-scale dataset of Minecraft game videos [[Paper](https://arxiv.org/abs/2501.08325)] [[Website](https://vvictoryuki.github.io/gamefactory/)] (2025.01)
+
 ### World Models based on Gaussian Splats & NeRFs
 
 - **World Labs**: Generating Worlds [[Website](https://www.worldlabs.ai/blog)] (2024.12)
@@ -61,6 +63,8 @@
 - **Counter-Strike Deathmatch with Large-Scale Behavioural Cloning**: [[Paper](https://arxiv.org/abs/2104.04258)] [[Code](https://github.com/TeaPearce/Counter-Strike_Behavioural_Cloning)] (NeurIPS, 2021.04)
 
 - **MineRL**: Towards AI in Minecraft [[Website](https://minerl.readthedocs.io/en/latest/)] [[Code](https://github.com/minerllabs/minerl)] (2020)
+
+- **GameFactory-Dataset**: 70 hours of Minecraft gameplay video with action annotations [[Dataset](https://huggingface.co/datasets/KwaiVGI/GameFactory-Dataset)] [[Paper](https://arxiv.org/abs/2501.08325)] [[Website](https://vvictoryuki.github.io/gamefactory/)] (2025.01)
 
 ## Articles
 
