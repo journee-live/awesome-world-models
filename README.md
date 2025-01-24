@@ -38,6 +38,8 @@
 
 - **Genie 2**: A large-scale foundation world model [[Website](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)] (2024.12)
 
+- **Playable Game Generation** [[Paper](https://arxiv.org/abs/2412.00887)] [[Code](https://github.com/GreatX3/Playable-Game-Generation)] (2024.12)
+
 - **GameFactory**: A generalizable world model that learns from a small-scale dataset of Minecraft game videos [[Paper](https://arxiv.org/abs/2501.08325)] [[Website](https://vvictoryuki.github.io/gamefactory/)] (2025.01)
 
 ### World Models based on Gaussian Splats & NeRFs
